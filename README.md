@@ -77,14 +77,6 @@ Your app will be available at **http://localhost:5173/**.
 
 ---
 
-## 🏗️ Future Enhancements
-
-- [ ] Multi-language support  
-- [ ] Resume version comparison  
-- [ ] Export AI feedback as PDF  
-- [ ] Cloud sync via Puter drive  
-
----
 
 ## 🧑‍💻 Author
 
