@@ -1,104 +1,109 @@
-# 🧠 HIREON – AI-Powered Resume Analyzer (Powered by Puter.js ⚡)
+# 🧠 HIREON – AI-Powered Resume Analyzer (Built with Puter.js ⚡)
 
-Welcome to **HIREON**, an intelligent resume analyzer designed to help job seekers refine their resumes for **maximum impact**.  
-Inspired by **JS Mastery**, this project blends **modern web development**, **AI analysis**, and **Puter.js integration** into one sleek black-and-green themed web app.
+**HIREON** is an intelligent resume analyzer designed to help job seekers enhance their resumes for **maximum impact**.  
+Inspired by **JS Mastery**, this project is built entirely using **Puter.js**, combining seamless cloud integration, local KV storage, and AI-powered text analysis — all inside one clean, modern interface.
 
 ---
 
 ## ✨ Features
 
-✅ **ATS Score Evaluation** – Get an instant score based on industry-standard ATS checks.  
-✅ **AI-Powered Suggestions** – Receive actionable tips to improve your resume’s structure, tone, and relevance.  
-✅ **Detailed Analysis** – Understand strengths, weaknesses, and keyword optimization.  
-✅ **Puter.js Integration** – Seamless connection between file system, KV store, and AI inference directly via the Puter.js SDK.  
-✅ **Responsive Design** – Fully optimized for all devices.  
-✅ **Aesthetic UI** – A futuristic black-and-green glowing theme for a professional yet modern vibe.  
+✅ **ATS Score Evaluation** – Instantly analyze your resume’s performance with an internal ATS scoring model.  
+✅ **Smart AI Analysis (via Puter.js)** – Understand keyword density, structure, and tone directly from the Puter environment.  
+✅ **Detailed Breakdown** – Get clear insights into your resume’s strengths and weaknesses.  
+✅ **No External APIs** – 100% powered by Puter.js.  
+✅ **Responsive Design** – Smoothly optimized for all screen sizes.  
+✅ **Modern Black & Green Theme** – Futuristic UI with glowing accents and minimal clutter.  
 
 ---
 
 ## 🧩 Tech Stack
 
-- ⚛️ **React** – Frontend Framework  
-- ⚡ **Puter.js** – Core integration for FS, AI, KV, and auth systems  
-- 🎨 **Tailwind CSS** – Styling & Animations    
-- 💾 **LocalStorage (via Puter.js)** – Data management  
-- 🔧 **Vite** – Build & Development tools  
+- ⚡ **Puter.js** – Core engine handling AI, FS, KV, and environment operations  
+- ⚛️ **React / Next.js** – Frontend framework  
+- 🎨 **Tailwind CSS** – Styling and responsive design  
+- 🗄️ **Puter KV Store** – Lightweight local data management  
+- 🔧 **Vite / Node.js** – Build tools and development environment  
 
 ---
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/<your-username>/HIREON.git
 cd HIREON
 ```
 
-### 2. Install dependencies
+### 2. Install Dependencies
 ```bash
 npm install
 ```
 
-### 3. Run the app
+### 3. Add Environment Variables
+Create a `.env` file in your root directory:
+```bash
+VITE_PUTER_API_KEY=your_puter_api_key_here
+```
+
+### 4. Run the App
 ```bash
 npm run dev
 ```
 
-Now open **http://localhost:5173/** to view it in your browser.
+Your app will be available at **http://localhost:5173/**.
 
 ---
 
 ## 🧠 How It Works
 
 1. Upload your resume (PDF/DOC).  
-2. **Puter.js** handles the file read and storage operations seamlessly.  
-3. The AI extracts relevant text and parses it for **keywords**, **grammar**, and **structure**.  
-4. An **ATS score** and **AI-driven feedback** are generated.  
-5. You receive a **summary** and **detailed report** with improvement suggestions.  
+2. **Puter.js** handles parsing, analysis, and ATS scoring.  
+3. The AI module inside Puter.js generates your **ATS score**, **summary**, and **improvement suggestions**.  
+4. You receive both a **brief summary** and a **detailed breakdown**.  
 
 ---
 
 ## 🎨 UI/UX Highlights
 
-- Dark, neon-inspired aesthetic with smooth transitions.  
-- Minimal, clean layout focusing on usability.  
-- Subtle hover effects, gradient buttons, and glowing accents.  
+- Dark black-and-green glowing theme for a futuristic look.  
+- Smooth transitions and minimalistic layout.  
+- Focused readability with clean typography.  
 
 ---
 
 ## 💡 Inspiration
 
-This project is **inspired by [JS Mastery](https://www.youtube.com/@jsmastery)** and **powered by [Puter.js](https://puter.com)** — combining clean architecture and futuristic AI integrations.
+**Inspired by [JS Mastery](https://www.youtube.com/@jsmastery)** and powered purely by **[Puter.js](https://puter.com)** — HIREON is a showcase of how modern web apps can integrate AI, storage, and compute directly inside the browser environment.
 
 ---
 
 ## 📸 Preview
 
-*(Add screenshots or GIFs of your app UI here)*  
+*(Add screenshots or demo GIFs here)*  
 
 ---
 
 ## 🏗️ Future Enhancements
 
-- [ ] Multi-language resume analysis  
-- [ ] PDF export of AI feedback  
-- [ ] User authentication via Puter Auth  
-- [ ] Job role-based optimization  
+- [ ] Multi-language support  
+- [ ] Resume version comparison  
+- [ ] Export AI feedback as PDF  
+- [ ] Cloud sync via Puter drive  
 
 ---
 
 ## 🧑‍💻 Author
 
 **Abhas**  
-💼 Web Developer | 🧠 AI Enthusiast | ⚡ Puter.js Explorer  
+💼 Web Developer | ⚡ Puter.js Builder | 🎨 UI/UX Enthusiast  
 🔗 [GitHub](https://github.com/<your-username>) | [LinkedIn](https://linkedin.com/in/<your-profile>)
 
 ---
 
 ## 🪪 License
 
-This project is licensed under the **MIT License** – feel free to use and modify it for your own projects.
+Licensed under the **MIT License** – feel free to use, fork, and enhance!
 
 ---
 
-⭐ **If you like this project, consider giving it a star!** ⭐
+⭐ **If you like this project, drop a star on GitHub!** ⭐
