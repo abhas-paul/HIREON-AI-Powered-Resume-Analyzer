@@ -36,7 +36,7 @@ cd HIREON-AI-Powered-Resume-Analyzer
 
 ### 2. Install Dependencies
 ```bash
-npm install
+npm install / npm i
 ```
 
 ### 3. Run the App
