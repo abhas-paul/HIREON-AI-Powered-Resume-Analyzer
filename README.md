@@ -18,12 +18,11 @@ Inspired by **JS Mastery**, this project blends **modern web development**, **AI
 
 ## 🧩 Tech Stack
 
-- ⚛️ **React / Next.js** – Frontend Framework  
+- ⚛️ **React** – Frontend Framework  
 - ⚡ **Puter.js** – Core integration for FS, AI, KV, and auth systems  
-- 🎨 **Tailwind CSS** – Styling & Animations  
-- 🤖 **OpenAI / AI APIs** – Resume analysis and suggestions  
-- 💾 **LocalStorage / KV Store (via Puter.js)** – Data management  
-- 🔧 **Vite / Node.js** – Build & Development tools  
+- 🎨 **Tailwind CSS** – Styling & Animations    
+- 💾 **LocalStorage (via Puter.js)** – Data management  
+- 🔧 **Vite** – Build & Development tools  
 
 ---
 
