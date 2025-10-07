@@ -19,10 +19,10 @@ Inspired by **JS Mastery**, this project is built entirely using **Puter.js**, c
 ## 🧩 Tech Stack
 
 - ⚡ **Puter.js** – Core engine handling AI, FS, KV, and environment operations  
-- ⚛️ **React / Next.js** – Frontend framework  
+- ⚛️ **React** – Frontend framework  
 - 🎨 **Tailwind CSS** – Styling and responsive design  
 - 🗄️ **Puter KV Store** – Lightweight local data management  
-- 🔧 **Vite / Node.js** – Build tools and development environment  
+- 🔧 **Vite** – Build tools and development environment  
 
 ---
 
