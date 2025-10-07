@@ -39,14 +39,7 @@ cd HIREON
 npm install
 ```
 
-### 3. Add your environment variables
-Create a `.env` file in the root directory and add your API keys:
-```bash
-VITE_OPENAI_API_KEY=your_api_key_here
-VITE_PUTER_API_KEY=your_puter_api_key_here
-```
-
-### 4. Run the app
+### 3. Run the app
 ```bash
 npm run dev
 ```
