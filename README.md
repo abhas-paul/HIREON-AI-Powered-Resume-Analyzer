@@ -82,7 +82,7 @@ Your app will be available at **http://localhost:5173/**.
 
 **Abhas**  
 💼 Web Developer | ⚡ Puter.js Builder | 🎨 UI/UX Enthusiast  
-🔗 [GitHub](https://github.com/abhas-paul) | [Instagram](https://linkedin.com/in/abhaspaul.webdev)
+🔗 [GitHub](https://github.com/abhas-paul) | [[Instagram](https://www.instagram.com/abhaspaul.webdev)
 
 ---
 
