@@ -73,7 +73,7 @@ Your app will be available at **http://localhost:5173/**.
 
 ## 📸 Preview
 
-[Website-Preview](thumbnail.png)
+![Website-Preview](thumbnail.png)
 
 ---
 
