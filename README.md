@@ -31,7 +31,7 @@ Inspired by **JS Mastery**, this project is built entirely using **Puter.js**, c
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/abhas-paul/HIREON-AI-Powered-Resume-Analyzer.git
-cd HIREON
+cd HIREON-AI-Powered-Resume-Analyzer
 ```
 
 ### 2. Install Dependencies
