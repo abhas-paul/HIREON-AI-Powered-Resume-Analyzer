@@ -67,7 +67,7 @@ Your app will be available at **http://localhost:5173/**.
 
 ## 💡 Inspiration
 
-**Inspired by [JS Mastery](https://www.youtube.com/@jsmastery)** and powered purely by **[Puter.js](https://puter.com)** — HIREON is a showcase of how modern web apps can integrate AI, storage, and compute directly inside the browser environment.
+**Inspired by [JS Mastery](https://www.youtube.com/@javascriptmastery)** and powered purely by **[Puter.js](https://puter.com)** — HIREON is a showcase of how modern web apps can integrate AI, storage, and compute directly inside the browser environment.
 
 ---
 
